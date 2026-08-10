@@ -1,6 +1,6 @@
 {
   "name": "Refactor.Ugui.Bounder.Demo",
-  "rootNamespace": "Refactor.Ugui.Demos.Bounder",
+  "rootNamespace": "Refactor.Ugui.Bounder.Demo",
   "references": [
     "Refactor.Ugui.Bounder",
     "UnityEngine.UI"

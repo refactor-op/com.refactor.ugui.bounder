@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Refactor.Ugui
+namespace Refactor.Ugui.Bounder
 {
     /// <summary>Fits its RectTransform around contributing child RectTransforms after uGUI layout.</summary>
     /// <remarks>

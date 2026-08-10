@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Refactor.Ugui.Demos.Bounder
+namespace Refactor.Ugui.Bounder.Demo
 {
     [DisallowMultipleComponent]
     public sealed class BounderDemo : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IDragHandler, IEndDragHandler
