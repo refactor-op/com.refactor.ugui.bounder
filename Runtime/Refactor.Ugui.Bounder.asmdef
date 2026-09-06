@@ -1,0 +1,8 @@
+{
+  "name": "Refactor.Ugui.Bounder",
+  "rootNamespace": "Refactor.Ugui.Bounder",
+  "references": [
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.refactor.ugui.bounder",
+  "version": "0.1.0",
+  "displayName": "Refactor.Ugui.Bounder",
+  "description": "Post-layout RectTransform fitting over direct child rects or pivots.",
+  "unity": "2023.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/refactor-op/com.refactor.ugui.bounder.git"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Bounder Demo",
+      "description": "Drag and rotate child RectTransforms.",
+      "path": "Samples~/BounderDemo"
+    }
+  ]
+}
